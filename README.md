@@ -8,8 +8,12 @@
 - import pokemon.csv file to new 'pokemon' table
 - run command: php artisan migrate --seed
 - run command: php artisan serve
-# explanation
-- Everytyhing(api,crud with views) was generated from existing 'pokemon' table through infyorm and adminLTE  packages
 # Credential(duplicated on login page)
 login: admin@admin.com 
 password: 12345678;
+# View
+http://127.0.0.1:8000/pokemon
+# Api
+http://127.0.0.1:8000/pokemon
+# Explanation
+- Everytyhing(api,crud with views) was generated from existing 'pokemon' table through infyorm and adminLTE  packages
