@@ -14,6 +14,6 @@ password: 12345678;
 # View
 http://127.0.0.1:8000/pokemon
 # Api
-http://127.0.0.1:8000/pokemon
+http://127.0.0.1:8000/api/pokemon
 # Explanation
 - Everytyhing(api,crud with views) was generated from existing 'pokemon' table through infyorm and adminLTE  packages
